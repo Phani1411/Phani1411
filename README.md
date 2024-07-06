@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phani1411
+- 👋 Hi, I’m Saiphanikumar Chinta
 - 👀 I’m interested in Data science and machine learning
 - 🌱 I’m currently learning Natural Lnguage Processing(NLP)
 - 💞️ I’m looking to collaborate on Data science roles
