@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saiphanikumar Chinta
 - 👀 I’m interested in Data science and machine learning
 - 🌱 I’m currently learning Natural Lnguage Processing(NLP)
-- 💞️ I’m looking to collaborate on Data science roles
+- 💞️ I’m looking to work on Data science roles
 - 📫 How to reach me through mail saiphani.chinta@gmail.com
 - 😄 Pronouns: He/Him
 
